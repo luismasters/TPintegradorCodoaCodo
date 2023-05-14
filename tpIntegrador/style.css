@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0Px;
+
+
+}
+
+#logo {
+    width: 90%;
+    height: 100PX;
+    margin: 0;
+    padding: 0;
+}
+
+
+nav {
+    background-color: gray;
+}
+
+li {
+    color: aliceblue;
+    margin: 5px;
+}
+
+li:hover {
+    color: chartreuse;
+}
+
+
+.mt-100{
+margin-top: 100px;
+
+}
+
+.r-t{
+
+text-align: right;
+
+}
+
+
+
+.letra-blanca {
+    color: white;
+}
+
+.caja1 {
+
+    height: 580px;
+    background-image: url(/img/palacio_de_aguas.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 580px;
+    position: relative;
+
+}
+
+
+
+.d{
+height: 250px;
+
+}
+
+.fondo-t {
+
+    background-color: rgba(77, 71, 71, 0.432);
+    height: 100%;
+    width: 100%;
+
+}
+
+.cartel{
+
+display: inline;
+background-color:rgb(241, 190, 59);
+padding: 0px 5px;
+border-radius: 10%;
+
+}
+#submit{
+ display:block;
+
+
+}
+
+.bg-green{
+
+
+    background-color: rgba(81, 143, 19, 0.856);
+    border-color: aliceblue;
+    border-radius: 5%;
+}
+
+
