@@ -47,7 +47,7 @@ text-align: right;
 .caja1 {
 
     height: 580px;
-    background-image: url(/img/palacio_de_aguas.jpg);
+    background-image: url(./img/palacio_de_aguas.jpg);
     background-repeat: no-repeat;
     background-size: 100% 580px;
     position: relative;
@@ -92,3 +92,34 @@ border-radius: 10%;
 }
 
 
+.cajacol{
+width: 250px !important;
+
+border-style:solid;
+margin: auto;
+}
+
+#resultado{
+padding: 8px;
+background-color: rgb(188, 210, 231) !important;
+font-size: 18px;
+
+}
+
+.btnR{
+
+background-color: rgba(33, 158, 33, 0.89) !important;
+
+}
+
+a{
+    color: aliceblue !important;
+    text-decoration: none !important;
+}
+
+a:hover{
+
+color:chartreuse !important;
+;
+
+}
